@@ -40,7 +40,8 @@ header {
   justify-content: space-between;
 }
 
-.logo {
+a.logo {
+  display:inline-block;
   max-width: 11em;
   width: 11em;
   height: 3em;
@@ -486,7 +487,7 @@ footer .item-one {
     color: #fff;
   }
 
-  .logo {
+  a.logo {
     width: 2em;
     background: url(assests/favicon.ico) no-repeat center center/cover;
   }
