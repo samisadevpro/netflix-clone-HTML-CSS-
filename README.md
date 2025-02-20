@@ -9,12 +9,12 @@ A Netflix-inspired landing page built using HTML, CSS, and JavaScript. This proj
 - **Dark Mode Aesthetic**: Mimics the original Netflix color scheme.
 
 ## 📸 Screenshots
-![Netflix Clone Screenshot](screenshot.png)
+![Netflix Clone Screenshot][Screenshot](https://github.com/user-attachments/assets/08aefd51-05a5-495e-84b4-dc177d3a2de1)
+
 
 ## 🛠️ Technologies Used
 - **HTML5**: Structuring the page.
 - **CSS3**: Styling and animations.
-- **JavaScript (Optional)**: Enhancing interactivity.
 
 ## 📂 Installation & Setup
 1. Clone the repository:
